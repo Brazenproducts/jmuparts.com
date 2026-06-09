@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jmuparts.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://jmuparts.com/best-best-jeep-wrangler-jmu-parts-accessories-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jmuparts.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jmuparts.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jmuparts.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jmuparts.com/jeep-wrangler-upgrades-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jmuparts.com/jmuparts-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jmuparts.com/jmuparts-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jmuparts.com/what-we-look-for-jmuparts-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jmuparts.com/jmuparts-practical-guide-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://jmuparts.com/smart-jmuparts-shopping-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://jmuparts.com/truth-about-jmuparts-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://jmuparts.com/jmuparts-explained-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://jmuparts.com/how-to-pick-jmuparts-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://jmuparts.com/jmuparts-market-2026.html</loc><lastmod>2026-05-31</lastmod></url>
-  <url><loc>https://jmuparts.com/jmuparts-compared-2026.html</loc><lastmod>2026-06-03</lastmod></url>
-  <url><loc>https://jmuparts.com/jmuparts-tested-ranked-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://jmuparts.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
